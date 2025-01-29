@@ -20,7 +20,7 @@
 
 ![...](qDTime_img_1920-200.jpg)
 shown datetime: January 13, 2025; 15:40:13
-># @qDTime-taks'qDTime-tiks@ --> @YY.MM.DD'TT.TTT@
+> __@qDTime-taks'qDTime-tiks@ --> @YY.MM.DD'TT.TTT@__
 
    | &nbsp; | value |
    | ---: | :----------- |
