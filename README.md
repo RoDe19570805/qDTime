@@ -52,5 +52,5 @@ shown datetime: January 13, 2025; 15:40:13
  
 ### created | last modified | version
 
-   2024-12-01 | 2024-01-13 | version: 0.1.0
+   2024-12-01 | 2024-01-28 | version: 0.1.0
 
